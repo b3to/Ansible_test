@@ -1,0 +1,48 @@
+Échec de la remise pour ces destinataires ou groupes :
+
+deadbydaylight@bhvr.com (deadbydaylight@bhvr.com)
+Nous n’avons pas trouvé l’adresse de messagerie que vous avez entrée. Vérifiez l’adresse de messagerie du destinataire et essayez de renvoyer le message. Si le problème persiste, contactez l’administrateur de votre messagerie.
+
+
+
+
+
+
+
+
+
+Informations de diagnostic pour les administrateurs :
+
+Serveur de génération : mtlsvrmxwv01.ad.bhvr.com
+
+
+deadbydaylight@bhvr.com
+Remote Server returned '550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup'
+
+
+En-têtes de message d'origine :
+
+Received: from mtlsvrmxwv01.ad.bhvr.com (fdb4:b8f3:7b13:170::60) by
+ mtlsvrmxwv01.ad.bhvr.com (fdb4:b8f3:7b13:170::60) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.1.845.34; Tue, 9 May 2017 14:37:59 -0400
+Received: from mtlsvrmxwv01.ad.bhvr.com ([fe80::bc8f:c1b6:127d:3465]) by
+ mtlsvrmxwv01.ad.bhvr.com ([fe80::bc8f:c1b6:127d:3465%12]) with mapi id
+ 15.01.0845.034; Tue, 9 May 2017 14:37:59 -0400
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Transfer-Encoding: binary
+From: Roberto Barrios <Roberto.Barrios@bhvr.com>
+To: "deadbydaylight@bhvr.com" <deadbydaylight@bhvr.com>
+Subject: test
+Thread-Topic: test
+Thread-Index: AdLI82HIk8U3Hjp6RV6zcieXUv7aeg==
+Date: Tue, 9 May 2017 14:37:59 -0400
+Message-ID: <403e662a1c824487ae4a5ba5c67717cc@bhvr.com>
+Accept-Language: fr-FR, en-CA, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator: <403e662a1c824487ae4a5ba5c67717cc@bhvr.com>
+MIME-Version: 1.0
+X-Originating-IP: [172.16.80.78]
+Return-Path: Roberto.Barrios@bhvr.com
+

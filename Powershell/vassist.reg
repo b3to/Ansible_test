@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\SOFTWARE\Whole Tomato\Visual Assist X]
+"AutoRegLicenseUser"="purchasing@bhvr.com (50-user license) Support ends 2017.02.22"
+"AutoRegLicenseKey"="00001X-V2KP69-VTDKGZ-GHXG4U-E7XB7H-P9T8Q1-YBFHAU-5T4Y5J-QJMEPA-C5G3R2-6UCP90"
+
+; For 64-bit operating systems, add:
+[HKEY_CURRENT_USER\SOFTWARE\Wow6432Node\Whole Tomato\Visual Assist X]
+"AutoRegLicenseUser"="purchasing@bhvr.com (50-user license) Support ends 2017.02.22"
+"AutoRegLicenseKey"="00001X-V2KP69-VTDKGZ-GHXG4U-E7XB7H-P9T8Q1-YBFHAU-5T4Y5J-QJMEPA-C5G3R2-6UCP90"
+
+[HKEY_CURRENT_USER\SOFTWARE\Whole Tomato\Visual Assist X]
+"UserName"=-
+"UserKey"=-
+
+; For 64-bit operating systems, add:
+[HKEY_CURRENT_USER\SOFTWARE\Wow6432Node\Whole Tomato\Visual Assist X]
+"UserName"=-
+"UserKey"=-

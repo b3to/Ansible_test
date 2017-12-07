@@ -1,0 +1,26 @@
+PSComputerName IPAddress                   MACAddress       
+-------------- ---------                   ----------       
+WKANG-W7       172.16.18.86                38:D5:47:25:5E:02
+MGUINDON-W7    {172.16.16.210, 7116, 6760} 40:16:7E:79:93:59
+
+
+
+Get-WmiObject : The RPC server is unavailable. (Exception from HRESULT: 0x800706BA)
+At C:\SCR1PT5\getmac.ps1:5 char:1
++ Get-WmiObject win32_networkadapterconfiguration -filter "ipenabled =  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], COMException
+    + FullyQualifiedErrorId : GetWMICOMException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+
+
+
+ 
+BPARILLO-W7    {172.16.18.36, 4117}        70:4D:7B:28:5D:57
+FBOUCHER-W7    {172.16.18.89, 9353}        74:D0:2B:2C:7B:5D
+NLARTIGUE-W7   172.16.16.91                38:D5:47:AF:99:C4
+LFRENETTE-W7   172.16.16.211               38:D5:47:AF:97:A6
+MPOIRIER-W7    172.16.17.12                74:D0:2B:2C:7C:59
+NMOREAU-W7     {172.16.18.83, 9856}        AC:9E:17:B3:D1:82
+SPICHETTE-W7   172.16.18.39                D8:50:E6:D3:D1:BD
+jchicoine-w7				   D8-50-E6-D3-D1-57	
+jadrover-w7				   70-8B-CD-4D-04-83
